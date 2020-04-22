@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/chewxy/math32"
+	. "github.com/neclepsio/math32"
 )
 
 var vf = []float32{

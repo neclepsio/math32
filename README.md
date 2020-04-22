@@ -1,5 +1,6 @@
-# math32 [![GoDoc](https://godoc.org/github.com/chewxy/math32?status.svg)](https://godoc.org/github.com/chewxy/math32)
+# math32 [![GoDoc](https://godoc.org/github.com/neclepsio/math32?status.svg)](https://godoc.org/github.com/neclepsio/math32)
 
+Based on [chewxy math32](https://godoc.org/github.com/chewxy/math32).
 A `float32` version of Go's math package. The majority of code in this library is a thin `float32` wrapper over the results of the `math` package that comes in the standard lib.
 
 
